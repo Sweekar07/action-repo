@@ -2,6 +2,4 @@
 
 Created a read me file.
 
-making a pull request.
-
-hello
+making a commit, pull and merge
